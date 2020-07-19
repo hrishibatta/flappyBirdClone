@@ -2,7 +2,7 @@
 
 # Flappy Bird Clone
 
-![](Flappy Bird.gif)
+![](Flappy_Bird.gif)
 
 The purpose of this code is to emulate the popular mobile game Flappy Bird. It uses pygame to implement the GUI. 
 
